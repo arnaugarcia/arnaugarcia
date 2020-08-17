@@ -17,9 +17,9 @@ Currently I'm developing some personal projects, working 💼 at [Opentrends](ht
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Java, Angular, C, <br /> Graphql, Mongodb, Javascript, etc 💻.
+- 🛠 I’m currently working on a project car-related 🚗 <br /> using a RasberryPi, C, Microservices, etc....
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/arnaugarcia?tab=repositories).
-- 💬 Ask me about anything [here](https://github.com/arnaugarcia/arnaugarcia/issues/)! I am happy to help.
+- 💬 Ask me about anything [here](https://github.com/arnaugarcia/arnaugarcia/issues/)! I am happy to help :D
 - 📫 How to reach me: arnau.garcia.gallego@gmail.com
 - 📝 Checkout my [Resume](https://arnaugarcia.com/assets/resume/CV_ArnauGarcia_rev2.pdf).
 
