@@ -91,7 +91,7 @@ Currently I'm developing some personal projects, working 💼 at [Opentrends](ht
 <details>
 	
   <br />
-  <summary><b>Things I use to get stuff done: 🔨</b></summary>
+  <summary><b>Things I use to get stuff done:</b></summary>
   	<ul>
   	    <li><b>OS:</b> MacOS 10.15 (Catalina) 🍎</li> 
   	    <li><b>Browser</b> Brave Browser 🦁</li>
