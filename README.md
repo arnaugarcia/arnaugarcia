@@ -26,7 +26,8 @@ Currently I'm developing some personal projects, working 💼 at [Opentrends](ht
 ### Languages and Tools:
 
 <code><img height="25" src="https://redpanthers.co/wp-content/uploads/2017/12/angularjs.png" alt="Angular"></code>
-<code><img height="25" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" alt="Firebase"></code>
+<code><img height="25" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java"></code>
+<code><img height="25" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring boot"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
