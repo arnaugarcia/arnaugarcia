@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/Hi.gif" width="30px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arnau%20Garcia%20Gallego-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arnaugarciagallego/)
 [![Website Badge](https://img.shields.io/badge/My%20Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://arnaugarcia.com/)
@@ -6,13 +6,15 @@
 [![Instagram Badge](https://img.shields.io/badge/-@arnaugarcia97-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/arnaugarcia97/)
 <br />
 
-### Glad to see you here! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+<img src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/dino.gif" height="200px">
+
+### Glad to see you here! <img src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/emoji.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 I am a programmer 💻 with the goal to improve myself and provide new things to the world 🌍. My curiosity and passion about computing and programming 🚀 began when I was very little and it's still increasing 🔝, day by day, without losing desire to learn more and improve myself 🏅. 
 
 Currently I'm developing some personal projects, working 💼 as a full-stack developer 😍, coursing a university degree and helping as a teacher in the university 🏫.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/coder.gif" />
 
 
 ### Talking about Personal Stuffs:
