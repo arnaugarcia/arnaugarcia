@@ -10,7 +10,7 @@
 
 I am a programmer 💻 with the goal to improve myself and provide new things to the world 🌍. My curiosity and passion about computing and programming 🚀 began when I was very little and it's still increasing 🔝, day by day, without losing desire to learn more and improve myself 🏅. 
 
-Currently I'm developing some personal projects, working 💼  as a full-stack developer 😍, coursing a university degree and helping as a teacher in the university 🏫.
+Currently I'm developing some personal projects, working 💼 at [Opentrends](https://opentrends.net) as a full-stack developer 😍, coursing a university degree and helping as a teacher in the university 🏫.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/coder.gif" />
 
@@ -91,11 +91,11 @@ Currently I'm developing some personal projects, working 💼  as a full-stack d
 <details>
 	
   <br />
-  <summary><b>Things I use to get stuff done:</b></summary>
+  <summary><b>Things I use to get stuff done: 🔨</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 10.15 (Catalina)</li>
-  	    <li><b>Browser</b> Brave Browser</li>
-	    <li><b>Code Editor:</b> IntelliJ IDEA, WebStorm, CLion</li>
+  	    <li><b>OS:</b> MacOS 10.15 (Catalina) 🍎</li> 
+  	    <li><b>Browser</b> Brave Browser 🦁</li>
+	    <li><b>Code Editor:</b> IntelliJ IDEA, WebStorm, CLion. (Jetbrains suite 🖤️️)</li>
 	</ul>
 	
 </details>
