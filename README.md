@@ -10,7 +10,7 @@
 
 I am a programmer 💻 with the goal to improve myself and provide new things to the world 🌍. My curiosity and passion about computing and programming 🚀 began when I was very little and it's still increasing 🔝, day by day, without losing desire to learn more and improve myself 🏅. 
 
-Currently I'm developing some personal projects, working 💼 as a full-stack developer 😍, coursing a university degree and helping as a teacher in the university 🏫.
+Currently I'm developing some personal projects, working 💼  as a full-stack developer 😍, coursing a university degree and helping as a teacher in the university 🏫.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
