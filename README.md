@@ -8,7 +8,7 @@
 
 ### Glad to see you here! <img src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/emoji.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I am a programmer 💻 with the goal to improve myself and provide new things to the world 🌍. My curiosity and passion about computing and programming 🚀 began when I was very little and it's still increasing 🔝, day by day, without losing desire to learn more and improve myself 🏅. 
+I am a programmer 💻 with the goal to improve myself and provide new things to the world 🌍 . My curiosity and passion about computing and programming 🚀 began when I was very little and it's still increasing 🔝, day by day, without losing desire to learn more and improve myself 🏅. 
 
 Currently I'm developing some personal projects, working 💼 at [Opentrends](https://opentrends.net) as a full-stack developer 😍, coursing a university degree and helping as a teacher in the [university](https://salleurl.edu) 🏫.
 
