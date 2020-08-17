@@ -14,6 +14,7 @@ Currently I'm developing some personal projects, working 💼 at [Opentrends](ht
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/coder.gif" />
 
+<br>
 
 ### Talking about Personal Stuffs:
 
