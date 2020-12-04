@@ -10,7 +10,7 @@
 
 I am a programmer 💻 with the goal to improve myself and provide new things to the world 🌍 . My curiosity and passion about computing and programming 🚀 began when I was very little and it's still increasing 🔝, day by day, without losing desire to learn more and improve myself 🏅. 
 
-Currently I'm developing some personal projects, working 💼 &#8192;at [Opentrends](https://opentrends.net) as a full-stack developer 😍 and coursing a [university](https://www.salleurl.edu/) 🏫 degree.
+Currently I'm developing some personal projects, working 💼 &#8192;at [Opentrends](https://opentrends.net) as a full-stack developer&blank;😍&blank;and coursing a [university](https://www.salleurl.edu/)&blank;🏫 degree.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/coder.gif" />
 
