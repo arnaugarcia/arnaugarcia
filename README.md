@@ -77,7 +77,7 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
       <td><img alt="Language" src="https://img.shields.io/github/languages/top/arnaugarcia/realstatecamp?style=flat-square"/></td>
     </tr>
     <tr>
-	  <td><a href="https://github.com/uplace/uplace.es"><b>🏠 Uplace</b></a></td>
+      <td><a href="https://github.com/uplace/uplace.es"><b>🏠 Uplace</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/uplace/uplace.es?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/uplace/uplace.es?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/uplace/uplace.es?style=flat-square"/></td>
