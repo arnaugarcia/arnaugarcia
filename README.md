@@ -61,12 +61,12 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
   </thead>
   <tbody>
     <tr>
-	  <td><a href="https://github.com/arnaugarcia/sallefy"><b>‍🎵 Sallefy</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/arnaugarcia/sallefy?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/arnaugarcia/sallefy?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/arnaugarcia/sallefy?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/arnaugarcia/sallefy?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/arnaugarcia/sallefy?style=flat-square"/></td> 
+	<td><a href="https://github.com/arnaugarcia/sallefy"><b>‍🎵 Sallefy</b></a></td>
+	<td><img alt="Stars" src="https://img.shields.io/github/stars/arnaugarcia/sallefy?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Forks" src="https://img.shields.io/github/forks/arnaugarcia/sallefy?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Issues" src="https://img.shields.io/github/issues/arnaugarcia/sallefy?style=flat-square"/></td>
+	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/arnaugarcia/sallefy?style=flat-square"/></td>
+	<td><img alt="Language" src="https://img.shields.io/github/languages/top/arnaugarcia/sallefy?style=flat-square"/></td> 
     </tr>
     <tr>
 	  <td><a href="https://github.com/arnaugarcia/realstatecamp"><b>🏢 RealStateCamp</b></a></td>
