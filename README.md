@@ -101,7 +101,7 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
 	
 </details>
 
-![Arnau Garcia's github stats](https://github-readme-stats.vercel.app/api?username=arnaugarcia&count_private=true&hide=contribs)
+![Arnau Garcia's github stats](https://github-readme-stats.vercel.app/api?username=arnaugarcia&count_private=true&hide=contribs&theme=tokyonight)
 
 #
 
