@@ -94,7 +94,7 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
   <br />
   <summary><b>Things I use to get stuff done:</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 10.15 (Catalina) 🍎</li> 
+  	    <li><b>OS:</b> macOS 11 (Big Sur) 🍎</li> 
   	    <li><b>Browser</b> Brave Browser 🦁</li>
 	    <li><b>Code Editor:</b> IntelliJ IDEA, WebStorm, CLion. (Jetbrains suite 🖤️️)</li>
 	</ul>
