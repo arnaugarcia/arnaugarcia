@@ -45,8 +45,7 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>Open source projects:</b></summary>
-
+	<summary><b>Open source projects:</b></summary>
 <br />
 <table>
   <thead align="center">
