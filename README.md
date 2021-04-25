@@ -46,7 +46,7 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
 
 <details>
 	<summary><b>Open source projects:</b></summary>
-<br />
+<br/>
 <table>
   <thead align="center">
     <tr border: none;>
