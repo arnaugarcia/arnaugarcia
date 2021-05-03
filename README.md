@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/My%20Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://arnaugarcia.com/)
 [![Twitter Badge](https://img.shields.io/badge/-@arnaugarcia97-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/arnaugarcia97)
 [![Instagram Badge](https://img.shields.io/badge/-@arnaugarcia97-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/arnaugarcia97/)
-<br />
+<br/>
 
 ### Glad to see you here! <img src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/emoji.gif" width="27px">
 
