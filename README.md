@@ -36,7 +36,6 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
 <code><img height="25" src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" alt="sql"></code>
 <code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="25" src="https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/1614/2019/07/21743298_1406722539365107_4308832733562613967_n.png" alt="amazon web services"></code>
-<code><img height="25" src="https://www.drupal.org/files/issues/2019-12-27/heroku_logo.png" alt="heroku"></code>
 <code><img height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/56/JHipster-logo.png" alt="JHipster"></code>
 <code><img height="25" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="Intellij IDEA"></code>
