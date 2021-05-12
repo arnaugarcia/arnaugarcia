@@ -84,7 +84,6 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
     </tr>
   </tbody>
 </table>
-
 </details>
 
 <details>
