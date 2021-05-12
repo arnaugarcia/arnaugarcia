@@ -32,7 +32,6 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="25" src="https://ftp.osuosl.org/pub/jenkins/art/jenkins-logo/1024x1024/headshot.png" alt="jenkins"></code>
 <code><img height="25" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/elastic-logo.png?raw=true" alt="nodejs"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="nodejs"></code>
 <code><img height="25" src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" alt="sql"></code>
 <code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="25" src="https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/1614/2019/07/21743298_1406722539365107_4308832733562613967_n.png" alt="amazon web services"></code>
