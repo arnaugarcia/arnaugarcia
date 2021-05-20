@@ -86,8 +86,9 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
 </details>
 
 <details>
-	
+
   <br/>
+
   <summary><b>Things I use to get stuff done:</b></summary>
   	<ul>
   	    <li><b>OS:</b> macOS 11 (Big Sur) 🍎</li> 
