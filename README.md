@@ -17,10 +17,10 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working on a project car-related 🚗 <br /> using a RasberryPi, C, Microservices, etc....
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/arnaugarcia?tab=repositories).
-- 💬 Ask me about anything [here](https://github.com/arnaugarcia/arnaugarcia/issues/)! I am happy to help :D
-- 📫 How to reach me: arnau.garcia.gallego@gmail.com
-- 📝 Checkout my [Resume](https://arnaugarcia.com/assets/resume/CV_ArnauGarcia_rev2.pdf).
+- 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/arnaugarcia?tab=repositories).
+- 💬  Ask me about anything [here](https://github.com/arnaugarcia/arnaugarcia/issues/)! I am happy to help :D
+- 📫  How to reach me: arnau.garcia.gallego@gmail.com
+- 📝  Checkout my [Resume](https://arnaugarcia.com/assets/resume/CV_ArnauGarcia_rev2.pdf).
 
 ### Languages and Tools:
 
