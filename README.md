@@ -24,7 +24,7 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
 
 ### Languages and Tools:
 
-<code<img height="25" src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular"></code>
+<code><img height="25" src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular"></code>
 <code><img height="25" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java"></code>
 <code><img height="25" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring boot"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
