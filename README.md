@@ -24,21 +24,21 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [Opentre
 
 ### Languages and Tools:
 
-<img height="25" src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular">
-<img height="25" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java">
-<img height="25" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring boot">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript">
-<img height="25" src="https://ftp.osuosl.org/pub/jenkins/art/jenkins-logo/1024x1024/headshot.png" alt="jenkins">
-<img height="25" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/elastic-logo.png?raw=true" alt="nodejs">
-<img height="25" src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" alt="sql">
-<img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb">
-<img height="25" src="https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/1614/2019/07/21743298_1406722539365107_4308832733562613967_n.png" alt="amazon web services">
-<img height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
-<img height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/56/JHipster-logo.png" alt="JHipster">
-<img height="25" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="Intellij IDEA">
-<img height="25" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" alt="Webstorm">
+<code><img height="25" src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular"></code>
+<code><img height="25" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java"></code>
+<code><img height="25" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring boot"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="25" src="https://ftp.osuosl.org/pub/jenkins/art/jenkins-logo/1024x1024/headshot.png" alt="jenkins"></code>
+<code><img height="25" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/elastic-logo.png?raw=true" alt="nodejs"></code>
+<code><img height="25" src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" alt="sql"></code>
+<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="25" src="https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/1614/2019/07/21743298_1406722539365107_4308832733562613967_n.png" alt="amazon web services"></code>
+<code><img height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/56/JHipster-logo.png" alt="JHipster"></code>
+<code><img height="25" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="Intellij IDEA"></code>
+<code><img height="25" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" alt="Webstorm"></code>
 
 ### Projects and Dev Stuffs:
 
