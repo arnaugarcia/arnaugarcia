@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/Hi.gif" width="30px" height="30px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arnau%20Garcia%20Gallego-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arnaugarciagallego/)
 [![Website Badge](https://img.shields.io/badge/My%20Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://arnaugarcia.com/)
