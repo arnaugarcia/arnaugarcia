@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@arnaugarcia97-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/arnaugarcia97/)
 <br/>
 
-### Glad to see you here! <img src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/emoji.gif" width="27px">
+### Glad to see you here! <img src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/emoji.gif" width="27px" height="27px">
 
 I am a programmer 💻 with the main goal to improve myself and provide new things to the world 🌍 . My curiosity and passion about computing and programming 🚀 began when I was very young and it's still increasing 🔝, day by day, without losing desire to learn more and improve myself 🏅. 
 
