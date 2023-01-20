@@ -10,7 +10,7 @@
 
 I am a programmer 💻 based in Barcelona who loves programming and learning. My curiosity and passion about computing and programming 🚀 began when I was very young and it's still increasing 🔝, day by day, without losing desire to learn more and improve myself 🏅. 
 
-Currently I'm developing some personal projects, working 💼 &#8192;at [Opentrends](https://opentrends.net) as a full-stack developer and coursing a [master](https://www.talent.upc.edu/esp/estudis/formacio/curs/213100/master-electricidad-electronica-automovil-eltica/) in the [university (UPC)](https://www.talent.upc.edu/).
+Currently I'm developing some personal projects and working 💼 &#8192;at [Opentrends](https://opentrends.net) as a full-stack developer.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/coder.gif" />
 
