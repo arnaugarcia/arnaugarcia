@@ -10,7 +10,7 @@
 
 I am a programmer 💻 based in Barcelona who loves programming and learning. My curiosity and passion about computing and programming began 🚀 when I was very young and it's still increasing 🔝, day by day, without losing desire to learn more and improve myself 🏅. 
 
-Currently I'm developing some personal projects and working 💼 &#8192;at [EVPassport](https://www.evpassport.com/) as a software engineer and studing electronics engineering [at the university](https://www.salleurl.edu/es/estudios/grado-en-ingenieria-electronica-mencion-en-robotica).
+Currently I'm developing some personal projects, working 💼 &#8192;at [EVPassport](https://www.evpassport.com/) as a software engineer and studing electronics engineering [at the university](https://www.salleurl.edu/es/estudios/grado-en-ingenieria-electronica-mencion-en-robotica).
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/arnaugarcia/arnaugarcia/master/img/coder.gif" />
 
