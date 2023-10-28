@@ -20,7 +20,7 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [EVPassp
 - 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/arnaugarcia?tab=repositories).
 - 💬  Ask me about anything [here](https://github.com/arnaugarcia/arnaugarcia/issues/)! I am happy to help :D
 - 📫  How to reach me: arnau.garcia.gallego@gmail.com
-- 📝  Checkout my [Resume](https://arnaugarcia.com/assets/resume/CV_ArnauGarcia_rev2.pdf).
+- 📝  Checkout my [Resume](https://arnaugarcia.com/assets/resume/CV_ArnauGarcia_rev7.pdf).
 
 ### Languages and Tools:
 
