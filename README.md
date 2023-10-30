@@ -91,7 +91,7 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [EVPassp
 
   <summary><b>Things I use to get stuff done:</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS 11 (Big Sur) 🍎</li> 
+  	    <li><b>OS:</b> macOS 14 (Sonoma) 🍎</li> 
   	    <li><b>Browser</b> Brave Browser 🦁</li>
 	    <li><b>Code Editor:</b> IntelliJ IDEA, WebStorm, CLion. (Jetbrains suite 🖤️️)</li>
 	</ul>
