@@ -93,7 +93,7 @@ Currently I'm developing some personal projects, working 💼 &#8192;at [EVPassp
   	<ul>
   	    <li><b>OS:</b> macOS 14 (Sonoma) 🍎</li> 
   	    <li><b>Browser</b> Brave Browser 🦁</li>
-	    <li><b>Code Editor:</b> IntelliJ IDEA, WebStorm, CLion. (Jetbrains suite 🖤️️)</li>
+	    <li><b>Code Editors:</b> IntelliJ IDEA, WebStorm, CLion. (Jetbrains suite 🖤️️)</li>
 	</ul>
 	
 </details>
