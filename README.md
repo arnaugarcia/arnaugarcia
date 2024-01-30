@@ -16,7 +16,7 @@ Currently I'm developing some personal projects, working 💼 at [EVPassport](ht
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working on a project car-related 🚗 <br /> using a RasberryPi, Arduino (Macchina M2), C, Rust, Microservices, etc....
+- 🛠 I’m currently working on a project car-related 🚗 <br /> using a RasberryPi, Arduino (Macchina M2), C, Microservices, etc....
 - 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/arnaugarcia?tab=repositories).
 - 💬  Ask me about anything [here](https://github.com/arnaugarcia/arnaugarcia/issues/)! I am happy to help :D
 - 📫  How to reach me: arnau.garcia.gallego@gmail.com
